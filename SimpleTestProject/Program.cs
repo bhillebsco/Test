@@ -12,7 +12,7 @@ namespace SimpleTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Test Project. Press enter to continue...?");
-            Console.WriteLine("Another test");
+            Console.WriteLine("Another test. Again already");
             //yo momma
             //test
             //dfgdfg
