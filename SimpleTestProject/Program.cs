@@ -11,6 +11,7 @@ namespace SimpleTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Test Project. Press enter to continue...?");
+            //yo momma
             Console.Read();
         }
     }
